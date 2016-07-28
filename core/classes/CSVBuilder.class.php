@@ -16,6 +16,15 @@ abstract class CSVBuilder {
   private $csvData = array(); //Array recebido para ser tratado
   private $fileData = array(); //Array tratado
 
+
+  /**
+   * Setter do $filename
+   */
+  public function setFilename($filename) {
+   $this->filename = $filename;
+  }
+
+
   /**
    * Automatiza o BUILD do CSV
    * @param array $array dados do CSV
