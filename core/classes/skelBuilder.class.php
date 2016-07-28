@@ -6,8 +6,8 @@
  * and open the template in the editor.
  */
 
-namespace msfidelis\core\classes;
-use msfidelis\core\classes\CSVBuilder;
+namespace msfidelis\csvBuilder\classes;
+use msfidelis\csvBuilder\classes\CSVBuilder;
 
 /**
  * Esqueleto do relatório
@@ -16,7 +16,7 @@ use msfidelis\core\classes\CSVBuilder;
  * @version $Revision: 1.0 
  * @date 28/07/2016 
  */
-class skelRelatorio extends CSVModel {
+class skelBuilder extends CSVBuilder {
   
   /**
    * Construtor da classe
@@ -27,4 +27,5 @@ class skelRelatorio extends CSVModel {
   }
 
 }
+
 
