@@ -1,0 +1,20 @@
+{
+    "name": "msfidelis/CSVBuilder",
+    "description": "Create CSV Files With Assossiative Arrays in PHP",
+    "homepage": "http://www.nanoshots.com.br",
+    "license": "MIT",
+    "keywords": ["library", "tool", "php", "csv"],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "files": ["core/autoload/register.inc"]
+    },
+    "authors": [
+        {
+            "name": "Matheus Scarpato Fidelis",
+            "email": "msfidelis01@gmail.com",
+            "role": "Web Developer and Linux SysAdmin"
+        }
+    ]
+}
