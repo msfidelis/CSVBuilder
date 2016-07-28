@@ -1,5 +1,5 @@
 {
-    "name": "msfidelis/CSVBuilder",
+    "name": "msfidelis/csv-builder",
     "description": "Create CSV Files With Assossiative Arrays in PHP",
     "homepage": "http://www.nanoshots.com.br",
     "license": "MIT",
